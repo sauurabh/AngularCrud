@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNwditn",
+      "name": "Brad Gibson",
+      "company": "Youtube",
+      "email": "brad@gmil.com",
+      "title": "Youtuber",
+      "mobile": "9879859898",
+      "photo": "https://st.depositphotos.com/1269204/1219/i/600/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg",
+      "groupId": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "colleague"
+    },
+    {
+      "id": "3",
+      "name": "colleague"
+    },
+    {
+      "id": "4",
+      "name": "colleague"
+    }
+  ]
+}
